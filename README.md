@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Goutham Kumar, a aspiring Software Developer passionate about learning Tech Stuffs.
+I'm Goutham Kumar, an aspiring Software Developer passionate about learning Tech Stuff.
 
 - 🔭 I’m currently working on Software Development
 - 🌱 I’m currently learning Android Development and Kotlin
