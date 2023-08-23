@@ -9,4 +9,9 @@ I'm Goutham Kumar, an aspiring Software Developer passionate about learning Tech
 - 💬 Ask me about Java and Development.
 - 😄 Pronouns: He/Him
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,git,github,)](https://skillicons.dev)
+###Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,git,github,androidstudio" />
+  </a>
+</p>
