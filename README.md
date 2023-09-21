@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Goutham Kumar, an aspiring Software Developer passionate about learning Tech Stuff.
+I'm Goutham Kumar, passionate about learning Tech Stuff.
 
 - 🔭 I’m currently working on Software Development
 - 🌱 I’m currently learning Web Development.
@@ -12,6 +12,6 @@ I'm Goutham Kumar, an aspiring Software Developer passionate about learning Tech
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,git,github,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,androidstudio" />
   </a>
 </p>
