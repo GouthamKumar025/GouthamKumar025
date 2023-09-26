@@ -2,8 +2,8 @@
 
 I'm Goutham Kumar, passionate about learning Tech Stuff.
 
-- 🔭 I’m currently working on Software Development
-- 🌱 I’m currently learning Web Development.
+- 🔭 I’m currently working on Data-Driven Models.
+- 🌱 I’m currently learning the world of data
 - 💡 Machine Learning Enthusiast
 - 👯 Building Communities and growing in public   
 - 💬 Ask me about Java and Development.
