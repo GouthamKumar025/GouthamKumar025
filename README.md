@@ -12,7 +12,7 @@ I'm Goutham Kumar, passionate about learning Tech Stuff.
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,tailwind,mysql,git,github,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,tailwind,mysql,git,github,androidstudio" />
   </a>
 </p>
 
