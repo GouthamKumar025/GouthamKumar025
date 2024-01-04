@@ -15,4 +15,7 @@ I'm Goutham Kumar, passionate about learning Tech Stuff.
     <img src="https://skillicons.dev/icons?i=java,python,html,css,tailwind,mysql,git,github,androidstudio" />
   </a>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<p>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=GouthamKumar025)](https://git.io/streak-stats)
+</p>
+
