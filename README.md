@@ -15,4 +15,5 @@ I'm Goutham Kumar, passionate about learning Tech Stuff.
     <img src="https://skillicons.dev/icons?i=java,python,html,css,tailwind,mysql,git,github,androidstudio" />
   </a>
 </p>
+https://profile-counter.glitch.me/{YOUR USER}/count.svg
 
