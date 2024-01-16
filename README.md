@@ -1,3 +1,5 @@
+<img src = "https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
+
 ### Hey there 👋
 
 I'm Goutham Kumar, passionate about learning Tech Stuff.
