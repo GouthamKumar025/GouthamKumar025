@@ -1,4 +1,7 @@
-<img align='center' class='header-gif' src = "https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
+<div align = "center">
+  <img class='header-gif' src = "https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
+</div>
+
 
 ### Hey there 👋
 
