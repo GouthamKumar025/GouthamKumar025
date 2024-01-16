@@ -3,9 +3,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/goutham-kumar-s-65a635224/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=gouthamkumar025&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
@@ -39,8 +39,7 @@ I am a Machine Learning Enthusiast <img src="https://media.giphy.com/media/WUlpl
 ### 🔥 &nbsp; My Stats :
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gouthamkumar025&hide_border=true" alt="GitHub Streak" /></a>
 
-[![Goutham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gouthamkumar025)](https://github.com/gouthamkumar025/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamkumar025&layout=compact&theme=vision-friendly-dark)](https://github.com/gouthamkumar025/github-readme-stats)
 
 ---
 
