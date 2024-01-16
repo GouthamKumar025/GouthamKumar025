@@ -1,4 +1,4 @@
-<div align = "center">
+<div align = "center" height = "20px">
   <img class='header-gif' src = "https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif">
 </div>
 
