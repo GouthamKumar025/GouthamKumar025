@@ -1,8 +1,4 @@
-<img class='header-gif' src = "https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
-
-.header-gif{
-     position:center
-     }
+<img align='center' class='header-gif' src = "https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif">
 
 ### Hey there 👋
 
