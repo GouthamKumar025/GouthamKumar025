@@ -20,7 +20,7 @@ I am a Machine Learning Enthusiast <img src="https://media.giphy.com/media/WUlpl
 - 👯 Building Communities and growing in public   
 - 💬 Ask me about Java and Development.
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/goutham-kumar-s-65a635224/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-gouthamkumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/goutham-kumar-s-65a635224/)
 
 ---
 
@@ -39,6 +39,7 @@ I am a Machine Learning Enthusiast <img src="https://media.giphy.com/media/WUlpl
 ### 🔥 &nbsp; My Stats :
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gouthamkumar025&hide_border=true" alt="GitHub Streak" /></a>
 
+[![Goutham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gouthamkumar025)](https://github.com/gouthamkumar025/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
