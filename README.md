@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="0203.gif" alt="header"/>
+  <img src="Iv_0_2024203170458.gif" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
