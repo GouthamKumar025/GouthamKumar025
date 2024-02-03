@@ -1,9 +1,21 @@
+<h1 align="center"> 👋 </h1>
+<div align="center">
+  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+</div>
+<p align="center"> (Open for Hiring)</p>
+
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<p align="center">
+  <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
+</p>
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/goutham-kumar-s-65a635224/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<!--<p align="center"><img src="https://komarev.com/ghpvc/?username=gouthamkumar025&style=flat-square&color=blue" alt=""></p>-->
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
