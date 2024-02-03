@@ -1,40 +1,6 @@
-<h1 align="center"> 👋 </h1>
-<div align="center">
-  <img src="lv_0_20240203170458.gif" width = "1100" height = "450" alt="header"/>
-</div>
-<p align="center"> (Open for Hiring)</p>
-
-<h2 align="center"> 👨‍💻 Whoami</h2>
-<p align="center">
-  <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
-  </samp>
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
-</p>
-
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/goutham-kumar-s-65a635224/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
-### :woman_technologist: &nbsp;About Me :
-
-I am a Machine Learning Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-
-- 🔭 I’m currently working on Data-Driven Models.
-- 🌱 I’m currently learning the world of data
-- 💡 Machine Learning Enthusiast
-- 👯 Building Communities and growing in public   
-- 💬 Ask me about Java and Development.
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-gouthamkumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/goutham-kumar-s-65a635224/)
-
----
+<h1 align="center">Happy to see you here !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<P>I am Goutham, a pre-final year computer science engineering student with passion and interest to work in Artifical Intelligence and Machine Learning.
+Always to open to collborate and work with projects and innovative ideas.</P>
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -45,8 +11,20 @@ I am a Machine Learning Enthusiast <img src="https://media.giphy.com/media/WUlpl
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
+
+<h2>Libraries and Frameworks</h2>
+<p align="center">
+<a  href="https://www.python.org/"  target="_blank"><img  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"  alt="python"/></a>
+<a target="_blank"><img  src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"  alt="numpy"/></a>
+<a target="_blank"><img  src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"  alt="numpy"/></a>
+<a target="_blank"><img  src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"  alt="pandas"/></a>
+<a target="_blank"><img  src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white"  alt="matplotlib"/></a>
+<a target="_blank"><img  src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"  alt="plotly"/></a>
+<a target="_blank"><img  src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"  alt="sklearn"/></a>
+
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-gouthamkumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/goutham-kumar-s-65a635224/)
 
 ---
 
@@ -54,31 +32,4 @@ I am a Machine Learning Enthusiast <img src="https://media.giphy.com/media/WUlpl
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gouthamkumar025&hide_border=true" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamkumar025&layout=compact&theme=vision-friendly-dark)](https://github.com/gouthamkumar025/github-readme-stats)
-
----
-
-<!--### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!--### Hey there 👋
-
-I'm Goutham Kumar, passionate about learning Tech Stuff.
-
-- 🔭 I’m currently working on Data-Driven Models.
-- 🌱 I’m currently learning the world of data
-- 💡 Machine Learning Enthusiast
-- 👯 Building Communities and growing in public   
-- 💬 Ask me about Java and Development.
-- 😄 Pronouns: He/Him
-
-### Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,tailwind,mysql,git,github,androidstudio" />
-  </a>
-</p>
-
 
