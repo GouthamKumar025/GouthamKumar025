@@ -35,6 +35,7 @@
   
 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-gouthamkumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/goutham-kumar-s-65a635224/)
 
+<br>
 ---
 
 ###  &nbsp; My Stats 
