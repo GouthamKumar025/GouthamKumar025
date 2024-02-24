@@ -32,12 +32,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="65" height="65"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="seaborn" width="65" height="65"/>&nbsp;
 <br>
-<br>
+  
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-gouthamkumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/goutham-kumar-s-65a635224/)
 
 ---
 
-###  &nbsp; My Stats :
+###  &nbsp; My Stats 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gouthamkumar025&hide_border=true" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamkumar025&layout=compact&theme=vision-friendly-dark)](https://github.com/gouthamkumar025/github-readme-stats)
