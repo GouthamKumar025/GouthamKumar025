@@ -3,12 +3,16 @@
 </div>
 
 <div class = "intro" align="center">
-<h1 align="center">Happy to see you here !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<P>I am Goutham, a Pre-final year computer science engineering student with passion and interest to work in Artifical Intelligence and Machine Learning.
-Always to open to collborate and work with projects and innovative ideas.</P>
+<h1 align="center">Delighted to encounter your presence in this space<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<ul>
+  <li>I am Goutham, a CS Engineering Student</li>
+  <li>Keen Interest to work in Machine Learning and Deep Learning</li>
+  <li>Ask me about Artificial Intelligence</li>
+  <li>Seeking collaboration with fellow innovators on the journey ahead</li>
+</ul>
 </div>
-<h2>Languages and Tools :</h2>
-
+<h2>Languages</h2>
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
 <p align = "center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
