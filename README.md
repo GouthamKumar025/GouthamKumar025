@@ -35,6 +35,8 @@
   
 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-gouthamkumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/goutham-kumar-s-65a635224/)
 
+--- 
+<br>
 
 ###  &nbsp; My Stats 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gouthamkumar025&hide_border=true" alt="GitHub Streak" /></a>
