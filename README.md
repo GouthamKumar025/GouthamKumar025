@@ -33,9 +33,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="seaborn" width="65" height="65"/>&nbsp;
 <br>
   
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-gouthamkumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/goutham-kumar-s-65a635224/)
+📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-gouthamkumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/goutham-kumar-s-65a635224/)
 
----
 
 ###  &nbsp; My Stats 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gouthamkumar025&hide_border=true" alt="GitHub Streak" /></a>
