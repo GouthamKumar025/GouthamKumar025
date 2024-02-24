@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F730EB&vCenter=true&random=false&width=435&lines=Machine+Learning+Enthusiast;Working+with+Fascinating+Models;Programmer;CS+Engineer+in+Profession)](https://git.io/typing-svg)
+
 <div class = "intro" align="center">
 <h1 align="center">Happy to see you here !<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <P>I am Goutham, a Pre-final year computer science engineering student with passion and interest to work in Artifical Intelligence and Machine Learning.
