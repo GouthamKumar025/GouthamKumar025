@@ -35,7 +35,7 @@
   <img src='https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white' alt='keras'>
 </p>
 <br>
-<h3>Let's Connect</h3>
+<h2>Let's Connect</h2>
 <p align="center">
    <a href="https://www.linkedin.com/in/goutham-kumar-s-65a635224/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
