@@ -24,7 +24,7 @@
   <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' alt='git'>
 </p>
 <br>
-<h3>ML/DL</h3>
+<h3>ML/DL Tech Stack</h3>
 <p align = 'center'>
   <img src='https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white' alt='numpy'>
   <img src='https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white' alt='pandas'>
@@ -35,7 +35,7 @@
   <img src='https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white' alt='keras'>
 </p>
 <br>
-<h3>Connect</h3>
+<h3>Let's Connect</h3>
 <p align="center">
    <a href="https://www.linkedin.com/in/goutham-kumar-s-65a635224/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
