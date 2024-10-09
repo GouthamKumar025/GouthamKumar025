@@ -1,13 +1,9 @@
 <h1 align="center">Hey there<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40"></h1>
-<div align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F730EB&center=true&vCenter=true&random=false&width=1000&height=100&lines=Machine+Learning+Enthusiast;Working+with+Fascinating+Models;Programmer;CS+Engineer+in+Profession" alt="Typing SVG" /></a>
-</div>
 
-<li>I am Goutham, a CS Engineering Student</li>
-<li>Have keen Interest to work in Machine Learning and Deep Learning</li>
-<li>Ask me about AI and Data Science</li>
+<li>I am Goutham, a Final Year Engineering Student</li>
+<li>Have keen Interest to work in Software Development and ML Technologies</li>
+<li>Ask me about Development and ML</li>
 <li>Seeking collaboration with fellow innovators on the journey ahead</li>
-
 
 <h2>Skills</h2>
 <h3>Languages</h3>
