@@ -38,7 +38,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=Gouthamkumar025&show_icons=true&theme=radical" alt="Goutham's GitHub stats"/>
 </div>
-
+<br>
 [![Goutham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gouthamkumar025&theme=rogue)](https://github.com/Gouthamkumar025/github-readme-activity-graph)
 
 
