@@ -43,9 +43,6 @@
 
 [![Goutham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gouthamkumar025&theme=rogue)](https://github.com/Gouthamkumar025/github-readme-activity-graph)
 
-
-![](https://gitwar.herokuapp.com/badge?username=Gouthamkumar025&color=green)
-
 <br>
 <h3>Let's Connect</h3>
 <p align="center">
