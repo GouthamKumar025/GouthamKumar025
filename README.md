@@ -7,10 +7,10 @@
 <li>Seeking collaboration with fellow innovators on the journey ahead</li>
 
 <h2>Skills</h2>
-<h3>Languages</h3>
+<h3>I code in</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,html,css,js,spring,dart,firebase,flutter,git,github,mysql,postgres,maven" />
+    <img src="https://skillicons.dev/icons?i=java,py,c,html,css,js,spring,dart,firebase,flutter,git,github,mysql,postgres,maven,postman" />
   </a>
 </p>
 
@@ -25,16 +25,15 @@
   <img src='https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white' alt='mysql'>
   <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' alt='git'> -->
 <br>
-<h3>ML/DL Tech Stack</h3>
-<p align = 'center'>
-  <img src='https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white' alt='numpy'>
-  <img src='https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white' alt='pandas'>
-  <img src='https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black' alt='matplotlib'>
-  <img src='https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white' alt='scikit-learn'>
-  <img src='https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white' alt='Scipy'>
-  <img src='https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white' alt='tensorflow'>
-  <img src='https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white' alt='keras'>
+<h3>Tools and IDE I use</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,eclipse"/>
+  </a>
 </p>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=goutham025&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
 <br>
 <h2>Let's Connect</h2>
 <p align="center">
