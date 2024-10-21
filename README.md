@@ -35,8 +35,7 @@
 
 ![Goutham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gouthamkumar025&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gouthamkumar025&layout=compact)
-
+![](https://gitwar.herokuapp.com/badge?username=Gouthamkumar025&style=flat-square)
 
 <br>
 <h2>Let's Connect</h2>
