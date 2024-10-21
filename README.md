@@ -38,11 +38,15 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=Gouthamkumar025&show_icons=true&theme=radical" alt="Goutham's GitHub stats"/>
 </div>
+<div>
+  [![Goutham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gouthamkumar025&theme=rogue)]      
+   (https://github.com/Gouthamkumar025/github-readme-activity-graph)
+</div>
 
 ![](https://gitwar.herokuapp.com/badge?username=Gouthamkumar025&color=green)
 
 <br>
-<h2>Let's Connect</h2>
+<h3>Let's Connect</h3>
 <p align="center">
    <a href="https://www.linkedin.com/in/goutham-kumar-s-65a635224/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
