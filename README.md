@@ -35,7 +35,7 @@
 
 ![Goutham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gouthamkumar025&show_icons=true&theme=radical)
 
-![](https://gitwar.herokuapp.com/badge?username=Gouthamkumar025&style=flat-square)
+![](https://gitwar.herokuapp.com/badge?username=Gouthamkumar025&color=green)
 
 <br>
 <h2>Let's Connect</h2>
