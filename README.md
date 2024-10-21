@@ -1,4 +1,4 @@
-<h3>Hey there<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40">It's me Goutham</h3>
+<h3>Hey there<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20">It's me Goutham</h3>
 <p>Aspiring Software Developer</p>
 
 <li>I'm currently working on web technologies</li>
@@ -32,7 +32,9 @@
   </a>
 </p>
 
+<p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=goutham025&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</p>
 
 <br>
 <h2>Let's Connect</h2>
