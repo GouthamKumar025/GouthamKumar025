@@ -1,4 +1,4 @@
-<h3>Hey there<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20">It's me Goutham</h3>
+<h3>Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20"> It's me Goutham</h3>
 <p>Aspiring Software Developer</p>
 
 <li>I'm currently working on web technologies</li>
@@ -6,7 +6,6 @@
 <li>Ask me about Development and ML</li>
 <li>Seeking collaboration with fellow innovators on the journey ahead</li>
 
-<h2>Skills</h2>
 <h3>I code in</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -31,8 +30,8 @@
     <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,eclipse"/>
   </a>
 </p>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GouthamKumar025&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<h3>GitHub Stats</h3>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GouthamKumar025&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 
 <br>
