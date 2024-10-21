@@ -2,7 +2,7 @@
 <p>Aspiring Software Developer</p>
 
 <li>I'm currently working on web technologies</li>
-<li>Have keen Interest to work in Software Development and ML Technologies</li>
+<li>Interest to work in Software Development and Machine Learning</li>
 <li>Ask me about Development and ML</li>
 <li>Seeking collaboration with fellow innovators on the journey ahead</li>
 
