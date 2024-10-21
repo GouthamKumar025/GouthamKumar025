@@ -32,9 +32,8 @@
   </a>
 </p>
 
-<p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=goutham025&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=goutham025&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 <br>
 <h2>Let's Connect</h2>
