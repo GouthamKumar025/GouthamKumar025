@@ -31,9 +31,13 @@
   </a>
 </p>
 <h3>GitHub Stats</h3>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GouthamKumar025&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-
-![Goutham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gouthamkumar025&show_icons=true&theme=radical)
+<div style="display: flex; flex-direction: row;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=GouthamKumar025&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Gouthamkumar025&show_icons=true&theme=radical" alt="Goutham's GitHub stats"/>
+</div>
 
 ![](https://gitwar.herokuapp.com/badge?username=Gouthamkumar025&color=green)
 
