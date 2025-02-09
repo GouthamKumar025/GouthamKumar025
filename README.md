@@ -9,7 +9,7 @@
 <h3>I code in</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,html,css,js,spring,dart,firebase,flutter,git,github,mysql,postgres,maven,postman" />
+    <img src="https://skillicons.dev/icons?i=java,py,c,html,css,js,react,spring,dart,firebase,flutter,git,github,mysql,postgres,maven,postman" />
   </a>
 </p>
 
